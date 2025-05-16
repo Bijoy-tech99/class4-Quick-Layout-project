@@ -226,6 +226,7 @@ footer{
 .col li{
     color: aliceblue;
     list-style: none;
+    padding: 2px 0px;
 }
 /* media query */
 
